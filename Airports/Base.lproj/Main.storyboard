@@ -65,7 +65,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Airports" id="Bpz-mo-D7l"/>
                     <connections>
-                        <outlet property="mapView" destination="aFn-88-hwa" id="PBn-T6-UfG"/>
+                        <outlet property="mapView" destination="aFn-88-hwa" id="Vqs-nR-saQ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

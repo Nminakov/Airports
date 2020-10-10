@@ -153,7 +153,7 @@ extension ViewController: MKMapViewDelegate {
         else {
             annotationView?.annotation = annotation
         }
-        annotationView?.image = UIImage(systemName: "pencil.circle.fill")
+        annotationView?.image = #imageLiteral(resourceName: "airport-3")
         return annotationView
     }
     
